@@ -1,6 +1,6 @@
 # Hello <img src="./wave.gif" width="20"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Mohammad Mizanur Rashed
 
----
+
 
 I'm a passionate Full Stack Developer From Chittagong Bangladesh
 <br/>

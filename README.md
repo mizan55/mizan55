@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 <a href="https://twitter.com/mizan54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizan54" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mizanurrashed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mizan55" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mizan55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mizan55" height="30" width="40" /></a>
-<a href="https://fb.com/mizan55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mizan55" height="30" width="40" /></a>
+<a href="https://fb.com/mizanurrashedcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mizan55" height="30" width="40" /></a>
 <a href="https://instagram.com/mizan55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizan55" height="30" width="40" /></a>
 </p>
 

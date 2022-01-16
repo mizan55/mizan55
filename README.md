@@ -1,4 +1,4 @@
-# Hello <img src="./wave.gif" width="20"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Mohammad Mizanur Rashed
+# Hello <img src="./wave.gif" width="20"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <span style="color:blue">Mohammad Mizanur Rashed</span>
 
 
 

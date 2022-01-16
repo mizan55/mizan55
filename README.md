@@ -1,4 +1,4 @@
-# Hello <img src="./wave.gif" width="20"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <a href="https://github.com/mizan55"> Mohammad Mizanur Rashed </a>
+# Hello <img src="./wave.gif" width="20"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <a style="text-decoration:none;" href="https://github.com/mizan55"> Mohammad Mizanur Rashed </a>
 
 
 

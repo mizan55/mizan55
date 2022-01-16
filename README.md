@@ -6,8 +6,8 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 <br/>
 
 <div>
-<div style="float:left"><img src="me.gif" width="400" height="250" style="max-width: 100%; "></div>
-<div><img src="new.gif" width="400" height="250" style="max-width: 100%;"></div>
+<img src="me.gif" width="400" height="250" style="max-width: 100%; ">
+<img src="new.gif" width="400" height="250" style="max-width: 100%;">
 </div>
 
 ---

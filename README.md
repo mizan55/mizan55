@@ -40,39 +40,47 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 ---
 ### 👨🏻‍🎓 Professional Qualifications: IsDB-BISEW Diploma
 #### Course Title: Web Application Development with PHP and Frameworks
-<style>
-    #customers {
-      font-family: Arial, Helvetica, sans-serif;
-      border-collapse: collapse;
-      width: 100%;
-    }
-    
-    #customers td, #customers th {
-      border: 1px solid #ddd;
-      padding: 8px;
-    }
-    
-    #customers tr:nth-child(even){background-color: #f2f2f2;}
-    
-    #customers tr:hover {background-color: #ddd;}
-    
-    #customers th {
-      padding-top: 12px;
-      padding-bottom: 12px;
-      text-align: left;
-      background-color: #04AA6D;
-      color: white;
-    }
-    #fd{
-        text-align: center;
-    }
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
 
+      #customers td,
+      #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
+
+      #customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      #customers tr:hover {
+        background-color: #ddd;
+      }
+
+      #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #04aa6d;
+        color: white;
+      }
+      #fd {
+        text-align: center;
+      }
     </style>
-    </head>
-    <body>
-    
-   
-    
+  </head>
+  <body>
     <table id="customers">
       <tr>
         <th>Module</th>
@@ -121,11 +129,13 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
       </tr>
       <tr>
         <td colspan="2" id="fd">Full Course Duration</td>
-       
+
         <td>904</td>
       </tr>
-      
     </table>
+  </body>
+</html>
+
 
 <div>
     <img align="left" style="margine-top:0; width:32%;padding-right:2px" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mizan55&show_icons=true&locale=en&layout=compact" alt="mizan55" />

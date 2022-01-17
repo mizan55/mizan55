@@ -47,6 +47,7 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 <img align="center" style="margine-top:0; width:32%" width="400"  src="https://github-readme-stats.vercel.app/api?username=mizan55&show_icons=true&locale=en" alt="mizan55" />
 </div>
 </br></br>
+
 ### 👨🏻‍🎓 Professional Qualifications: IsDB-BISEW Diploma
 #### Course Title: Web Application Development with PHP and Frameworks
 | Module | Description | Course Duration(Hours) |

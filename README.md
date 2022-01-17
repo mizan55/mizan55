@@ -53,13 +53,13 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 | Module | Description | Course Duration(Hours) |
 |--|--|--|
 |Module - 01|Computer Fundamentals|4|
-|Module - 01|Web Publishing|112|
-|Module - 01|CSS3, Bootstrap & Photoshop|100|
-|Module - 01|Database Driven Web Application using PHP, MySQL|184|
-|Module - 01|JQuery & Angular6|100|
-|Module - 01|Magento ,Wordpress & Theme development & plugins|140|
-|Module - 01|Codelgniter , Laravel|168|
-|Module - 01|ReactJs, ,XML|96|
+|Module - 02|Web Publishing|112|
+|Module - 03|CSS3, Bootstrap & Photoshop|100|
+|Module - 04|Database Driven Web Application using PHP, MySQL|184|
+|Module - 05|JQuery & Angular6|100|
+|Module - 06|Magento ,Wordpress & Theme development & plugins|140|
+|Module - 07|Codelgniter , Laravel|168|
+|Module - 08|ReactJs, ,XML|96|
 ||Total Duration|904|
 
 

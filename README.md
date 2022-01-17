@@ -65,7 +65,7 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 
 ### 👨🏻‍🎓 Education :
 
-| M.A 2017                 | B.A 2016                 |
+| M.A 2018                 | B.A 2017                 |
 | ------------------------ | ------------------------ |
 | University of Chittagong | University of Chittagong |
 

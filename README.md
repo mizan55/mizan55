@@ -40,17 +40,92 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 ---
 ### 👨🏻‍🎓 Professional Qualifications: IsDB-BISEW Diploma
 #### Course Title: Web Application Development with PHP and Frameworks
-| Module | Description | Course Duration(Hours) |
-|--|--|--|
-|Module - 01|Computer Fundamentals|4|
-|Module - 01|Web Publishing|112|
-|Module - 01|CSS3, Bootstrap & Photoshop|100|
-|Module - 01|Database Driven Web Application using PHP, MySQL|184|
-|Module - 01|JQuery & Angular6|100|
-|Module - 01|Magento ,Wordpress & Theme development & plugins|140|
-|Module - 01|Codelgniter , Laravel|168|
-|Module - 01|ReactJs, ,XML|96|
-||Total Duration|904|
+<style>
+    #customers {
+      font-family: Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    #customers td, #customers th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    #customers tr:nth-child(even){background-color: #f2f2f2;}
+    
+    #customers tr:hover {background-color: #ddd;}
+    
+    #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #04AA6D;
+      color: white;
+    }
+    #fd{
+        text-align: center;
+    }
+
+    </style>
+    </head>
+    <body>
+    
+   
+    
+    <table id="customers">
+      <tr>
+        <th>Module</th>
+        <th>Description</th>
+        <th>Course Duration(Hours)</th>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>Computer Fundamentals</td>
+        <td>004</td>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>Web Publishing</td>
+        <td>112</td>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>CSS3, Bootstrap & Photoshop</td>
+        <td>100</td>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>Database Driven Web Application using PHP, MySQL</td>
+        <td>184</td>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>JQuery & Angular6</td>
+        <td>100</td>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>Magento ,Wordpress & Theme development & plugins</td>
+        <td>140</td>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>Codelgniter , Laravel</td>
+        <td>168</td>
+      </tr>
+      <tr>
+        <td>Module - 01</td>
+        <td>ReactJs ,XML</td>
+        <td>096</td>
+      </tr>
+      <tr>
+        <td colspan="2" id="fd">Full Course Duration</td>
+       
+        <td>904</td>
+      </tr>
+      
+    </table>
 
 <div>
     <img align="left" style="margine-top:0; width:32%;padding-right:2px" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mizan55&show_icons=true&locale=en&layout=compact" alt="mizan55" />

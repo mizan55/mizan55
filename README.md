@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer From Chittagong Bangladesh
 ### <img src="./about.png" width="15" height="15" style="border-radius: 25px; color:white"> About Me:
 
 - I am An enthusiastic person with highly motivated & leadership
-  skills having bachelors of M.A degree with professional IDB-BISEW diploma on
+  skills having  M.A degree with professional IDB-BISEW diploma on
   Web Application Development with PHP and Frameworks (WDPF)
 - Eager to learn new knowledge & methodologies.
 - Always willing to innovate the new things which can improve
